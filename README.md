@@ -1,0 +1,2 @@
+# ADVANCED-AGRICULTURE-AUTOMATION-WITH-WIRELESS-COMMUNICATION-AND-PREDICTIVE-ANALYSIS
+This IoT-based farming system enhances productivity and sustainability through real-time monitoring of temperature, humidity, and soil moisture. Automated irrigation optimizes water use, reducing waste and manual effort. Data stored on ThingSpeak Cloud enables analysis, remote monitoring, data-driven decisions for efficienteco-friendly agriculture.
